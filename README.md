@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aladeola
-- 👀 I’m interested in software programing 
-- 🌱 I’m currently learning software engineering 
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on frontend development 
 
 <!---
